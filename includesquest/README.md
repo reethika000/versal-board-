@@ -1,29 +1,4 @@
-# AMD VCK190 Versal Evaluation Board - Complete Interview Revision Guide
 
----
-
-# 1. Introduction
-
-I have worked on the AMD VCK190 Versal Evaluation Board and previously worked on PYNQ-Z2 and ZYBO boards based on the Zynq-7000 family.
-
-This document serves as a complete revision guide covering:
-
-- VCK190 Board Architecture
-- Versal Architecture
-- Boot Flow
-- Memory Architecture
-- USB, JTAG, FTDI, UART
-- SD Card and QSPI Boot
-- PCIe
-- FMC+
-- ADC/DAC Cards
-- System Controller
-- PMC, PSM, PLM
-- AI Engines
-- NoC
-- Interview Questions and Answers
-
----
 
 # 2. Evolution of AMD FPGA SoCs
 
